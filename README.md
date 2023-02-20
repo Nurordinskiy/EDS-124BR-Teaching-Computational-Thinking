@@ -1,6 +1,8 @@
 # EDS-124BR-Teaching-Computational-Thinking
 Videos and projects for EDS 124BR at UCSD
 
+Code Walkthrough If Statements If-else Ball: https://youtu.be/911c63haTNs
+
 Code Walkthrough: Conditional Loops: https://youtu.be/2wpmIZ4NIps
 
 Code Walkthrough: Variables: https://youtu.be/lcBl5j1Qv10
