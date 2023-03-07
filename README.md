@@ -1,6 +1,8 @@
 # EDS-124BR-Teaching-Computational-Thinking
 Videos and projects for EDS 124BR at UCSD
 
+Treasure Code Walkthrough: https://youtu.be/CH_dU9yW3-Y
+
 Code Walkthrough: Nested If/Else The Penguin: https://youtu.be/z_aZiQAYDX4
 
 Code Walkthrough If Statements If-else Ball: https://youtu.be/911c63haTNs
