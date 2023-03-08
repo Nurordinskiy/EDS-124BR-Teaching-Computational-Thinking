@@ -1,6 +1,8 @@
 # EDS-124BR-Teaching-Computational-Thinking
 Videos and projects for EDS 124BR at UCSD
 
+Picture Code Walkthrough: Abstraction: https://youtu.be/DPO4BF3NFng
+
 Treasure Code Walkthrough: https://youtu.be/CH_dU9yW3-Y
 
 Code Walkthrough: Nested If/Else The Penguin: https://youtu.be/z_aZiQAYDX4
