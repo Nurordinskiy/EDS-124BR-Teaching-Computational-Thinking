@@ -1,6 +1,8 @@
 # EDS-124BR-Teaching-Computational-Thinking
 Videos and projects for EDS 124BR at UCSD
 
+Countries Code Walkthrough Lists: https://youtu.be/Mbm9ApMHmFo
+
 Picture Code Walkthrough: Abstraction: https://youtu.be/DPO4BF3NFng
 
 Treasure Code Walkthrough: https://youtu.be/CH_dU9yW3-Y
